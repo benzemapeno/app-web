@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Noto Sans;
+  background-color: black;
+  
+}
+
+
+header{
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+  
+}
+h1{
+  padding: 0;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  color: #4e95cb;
+ 
+}
+input.research{
+  background-color:#699BF7;
+  color: white;
+  margin-left: 70px;
+  height: 30px;
+  border: none;
+  border-radius: 16px;
+  width: 250px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 10px;
+  padding-left: 5px;
+  
+  
+}
+input.location{    
+  background-color:#699BF7;
+  color: white;
+  margin-left: 80px;
+  height: 30px;
+  border: none;
+  border-radius: 16px;
+  width: 120px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 6px;
+  
+  
+}
+.bouton{
+  display: flex;
+}
+input.collect{
+  background-color:#699BF7;
+  color: white;
+  margin-left: 20px;
+  height: 30px;
+  border: none;
+  border-radius: 16px;
+  width: 100px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 6px;
+}
+img{
+  width: 150px;
+  height: 120px;
+  margin-right: 10px;
+}
+main{
+  display: flex;
+  margin-top: 20px;
+  margin-left: 30px;
+  justify-content: center;
+}
+.two{
+  display: flex;
+  margin-top: 20px;
+  margin-left: 30px;  
+  justify-content: center;
+}
+.tree{
+  display: flex;
+  margin-top: 20px;
+  margin-left: 30px;
+  justify-content: center; 
+}
+p{
+  color: #ffffff;
+}
+
+  
